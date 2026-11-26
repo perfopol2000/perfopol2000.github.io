@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="256" height="256"><image width="256" height="256" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAADdUlEQVR4nO3dIY5TURSA4VeCryJVVaNYAQrPCjBoDBpWARrDDtAIPOsgIYxhgmESfNlAeRPa4bW3//fZps1JX96fa07uNAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHWM19uNvtdkf9Opy5r4+eHvS9q59fplGsVqu/vucPlh0FOCcCAGECAGECAGECAGECAGECAGECAGECAGECAGECAGECAGECAGECAGGz68Dff/yyDsw/227Ww6z1Lu0Ua8TWgYG9BADCBADCBADCBADCBADCBADCBADCBADCBADCBADCBADCBADCXA7KWRllq2+kTULbgMBeAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhD089AJfHRt84/6sTAIQJAIQJAIQJAIQJAIQJAIQJAIQJAIQJAIQJAIQJAIQJAIQJAIS5G5CLMMoG4tWB9/sdw92AwF4CAGECAGECAGECAGECAGECAGECAGECAGECAGECAGECAGECAGECAGGzl4Ne39wuNwn/zeMnL6ZR/P726dQjpDgBQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQNjsNuB2s15uEmBxTgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQNns3YMGz56+mUXz++P7UI3BhnAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgbHYb8PrmdrlJuJPnwX1zAoAwAYAwAYAwAYAwAYAwAYAwAYAwAYAwAYAwAYAwAYAwAYAwAYAwAYCw2XXg7Wa93CTcyfPgvjkBQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQNjsNuDLN++mUXx4+/rUI8BwnAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYDrMH0IKMjya+fqrAAAAAElFTkSuQmCC"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2 0.5 19 19" width="64" height="64" shape-rendering="crispEdges">
+<style>.grid{fill:#E2E8F0}.b1{fill:#64748B}.b2{fill:#475569}.b3{fill:#0B1F4B}.arrow{fill:#DC143C}@media (prefers-color-scheme:dark){.grid{fill:#334155}.b1{fill:#94A3B8}.b2{fill:#CBD5E1}.b3{fill:#FFFFFF}}</style>
+<rect class="grid" x="3" y="4" width="10" height="1"/>
+<rect class="grid" x="3" y="8" width="10" height="1"/>
+<rect class="grid" x="3" y="12" width="10" height="1"/>
+<rect class="b1" x="3" y="14" width="3" height="3"/>
+<rect class="b2" x="7" y="11" width="3" height="6"/>
+<rect class="b3" x="11" y="8" width="3" height="9"/>
+<rect class="arrow" x="15" y="7" width="3" height="10"/>
+<rect class="arrow" x="13" y="6" width="7" height="1"/>
+<rect class="arrow" x="14" y="5" width="5" height="1"/>
+<rect class="arrow" x="15" y="4" width="3" height="1"/>
+<rect class="arrow" x="16" y="3" width="1" height="1"/>
+</svg>
